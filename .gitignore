@@ -1,0 +1,22 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Django-related files
+*.log
+*.pot
+*.pyc
+db.sqlite3
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.swp
+
+# Media and Static files (if you're using Django's default file storage)
+media/
+static/
+
+# Virtual environment
+venv/
